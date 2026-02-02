@@ -1,0 +1,32 @@
+.container{
+    border: 2px solid black;
+    padding: 3%;
+    width: 500px;
+    margin: 0 auto;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: burlywood;
+
+}
+h1{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkblue;
+}
+
+
+#task-form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+button{
+    padding: 10px 15px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 10px;
+}
